@@ -1,0 +1,59 @@
+{
+  "slug": "pranavam-events-and-caterers-kollam",
+  "name": "Pranavam Events&caterers",
+  "shortName": "Pranavam Events&caterers",
+  "descriptor": "Catering & Events",
+  "address": "Pranavam, ganapathi temple road, near Palliyadiyil, Chavara, Keralam 691583",
+  "area": "Chavara",
+  "city": "Kollam",
+  "district": "Kollam",
+  "region": "Kerala",
+  "postalCode": "691582",
+  "geo": {
+    "lat": 8.9667127,
+    "lng": 76.53485309999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=2131675137324396726",
+  "phone": "+91 97465 95826",
+  "whatsapp": "919746595826",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 173,
+  "reviews": [
+    {
+      "name": "Resh Kathu",
+      "rating": 5,
+      "quote": "Pranav and team had done a wonderful job.everything including the food , lights, stage decor was awsm.despite the high charges offered by many catering teams, pranav events is such a event management team where in any average malayali can afford."
+    },
+    {
+      "name": "VARMA raj",
+      "rating": 5,
+      "quote": "Delicious food and excellent service. The staff was also very nice and well mannered . Mr Pranav and his team from Pranavam Catering have done a wonderful job in making my house warming function a memorable occasion for us. Overall event of lighting, decoration, security service was excellent. Thanking You."
+    },
+    {
+      "name": "Aneesa Ashraf ali",
+      "rating": 5,
+      "quote": "When it comes to the matter of food for any function,be it a small party or a grand function like marriage,you don’t have to worry about it.Just hand over your thoughts to Pranavam ,rest is assured.You don’t have to give any specific instructions,Pranavam know it very well how to make it a memorable experience."
+    },
+    {
+      "name": "Aparna Raj",
+      "rating": 5,
+      "quote": "Pranavam did the catering for my wedding. The food taste and service were exceptional at a reasonable price. They have an extensive menu with unique dishes that they will customize for your needs. The service boys&girls outfit along with table clothes were nice and tidy. Overall I was delighted with their service."
+    },
+    {
+      "name": "Kannan Appu",
+      "rating": 5,
+      "quote": "Team Pranavam is one of the best one which you can approach without any doubt. Their management, attitude of their sraff and coordination of the events are absolutely awsome. I can give the team a 9/10 mark Thank You Team Pranavam❤️. Keep Rocking. 🔥"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://pranavam-events-and-caterers-kollam.vercel.app"
+}
